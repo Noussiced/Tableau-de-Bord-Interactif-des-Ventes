@@ -1,4 +1,4 @@
-# Tableau-de-Bord-Interactif-des-Ventes
+# Tableaucde Bord Interactif des Ventes
 
 Dans le but d'améliorer les rapports sur les ventes en ligne, j'ai souhaité passer de rapports statiques à des tableaux de bord visuels. 
 
