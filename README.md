@@ -9,4 +9,5 @@ Comme chaque vendeur travaille sur différents produits et clients, il serait ut
 Les chiffres sont mesurés par rapport au budget. Je les ai donc ajoutés dans une feuille de calcul afin que nous puissions comparer les valeurs à la performance.  
 
 Le budget est pour 2024 et l'habitude est de regarder deux ans en arrière lorsque nous faisons une analyse des ventes. 
+
 Voici un lien pour accéder au Dashboard en Ligne https://ggema-my.sharepoint.com/:u:/g/personal/noussi-cedric_tantcheu_edu_groupe-gema_com/EXA2Ok1di7tBiWa_gQqsoswBiTorUAEIM6adEcE0f60Tlg?e=DxhYMu
